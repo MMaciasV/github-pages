@@ -38,7 +38,7 @@ Eso mismo aplico al aprender código.
 
 - **GitHub**: [@MauricioMacías](https://github.com/tuusuario)
 - **LinkedIn**: [Mi perfil](https://www.linkedin.com/in/mauricio-eduardo-mac%C3%ADas-v%C3%A1zquez-617366228/)
--**Instagram**:[Mauricio Macias](https://www.instagram.com/iammauriciooo/)
+- **Instagram**:[Mauricio Macias](https://www.instagram.com/iammauriciooo/)
 -  **Club**: Binary Brains, UPIICSA
 
 ---
