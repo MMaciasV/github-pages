@@ -1,5 +1,5 @@
 ---
-title: Mi Blog Personal
+Mauricio Macías
 ---
 
 #  Mi Blog Personal
@@ -22,7 +22,7 @@ Subí este archivo como `index.md` y habilité Pages desde la rama `main`.
 
 ---
 
-###  Cómo el baloncesto me ayuda a programar mejor
+###  ¿Cómo el baloncesto me ayuda a programar mejor?
 El básquet me ha enseñado a trabajar en equipo, mantener la disciplina, y no rendirme fácilmente.
 Eso mismo aplico al aprender código.
 
@@ -37,7 +37,7 @@ Eso mismo aplico al aprender código.
 ##  Contacto
 
 - **GitHub**: [@MauricioMacías](https://github.com/tuusuario)
-- **LinkedIn**: [Mi perfil](https://www.linkedin.com/in/mauricio-eduardo-mac%C3%ADas-v%C3%A1zquez-617366228/)
+- **LinkedIn**: [Mauricio Eduardo Macías Vázquez](https://www.linkedin.com/in/mauricio-eduardo-mac%C3%ADas-v%C3%A1zquez-617366228/)
 - **Instagram**:[Mauricio Macias](https://www.instagram.com/iammauriciooo/)
 -  **Club**: Binary Brains, UPIICSA
 
