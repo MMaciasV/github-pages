@@ -1,4 +1,4 @@
-#  Mi Blog Personal
+#  Mauricio Macías
 
 ¡Hola! Soy **Mauricio**, estudiante de Ciencias de la Informática en UPIICSA y miembro del club de programación **Binary Brains**.  
 Este es mi espacio para compartir lo que aprendo de programación, tecnología y baloncesto.
