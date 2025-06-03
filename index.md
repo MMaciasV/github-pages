@@ -1,7 +1,6 @@
----
-Mauricio Macías
----
 
+#  Mauricio Macías
+---
 #  Mi Blog Personal
 
 ¡Hola! Soy **Mauricio**, estudiante de Ciencias de la Informática en UPIICSA y miembro del club de programación **Binary Brains**.  
