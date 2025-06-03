@@ -1,7 +1,6 @@
 ---
 ---
 title: Mi Blog Personal
-layout: default
 ---
 
 #  Mi Blog Personal
